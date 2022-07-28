@@ -14,7 +14,7 @@ $ tar -xzf kafka_2.13-3.2.0.tgz
 $ cd kafka_2.13-3.2.0
 
 
-#Step 2: Start the Kafka environment
+# Step 2: Start the Kafka environment
 
 NOTE: Your local environment must have Java 8+ installed.
 
@@ -39,8 +39,9 @@ $ .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 Once all services have successfully launched, you will have a basic Kafka environment running and ready to use. 
 
-#Step 3: Run spring boot app poc-kafka-spring
 
+
+# Step 3: Run Spring Boot app poc-kafka-spring
 
 Test Producer  
 
